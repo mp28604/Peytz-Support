@@ -1,2 +1,1 @@
-# Peytz-Support
-Skrivende tekst
+Peytz Support system
